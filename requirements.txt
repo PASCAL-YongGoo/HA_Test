@@ -1,0 +1,4 @@
+pygame>=2.1.0
+# numpy is optional: it enables synthesized sound effects. The game runs
+# silently without it.
+numpy>=1.21.0
